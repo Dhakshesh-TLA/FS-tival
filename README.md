@@ -1,3 +1,3 @@
-# FS-tival
+# Design thinking
 
 ## SciKit Learn
